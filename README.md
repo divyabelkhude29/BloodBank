@@ -57,6 +57,10 @@ It also provides a user-facing site to view blood stock, search donors, and see 
     
     Access the user site at:
     http://localhost/bloodbank/user/index.php
+5. **Admin Login:
+
+   Username: admin
+   Password: admin123
   
 
 
