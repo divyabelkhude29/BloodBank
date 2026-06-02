@@ -24,7 +24,7 @@ It also provides a user-facing site to view blood stock, search donors, and see 
 
 ## Technologies Used
 
-- PHP (with MySQLi)
+- PHP (with MySQL)
 - MySQL
 - HTML/CSS
 
